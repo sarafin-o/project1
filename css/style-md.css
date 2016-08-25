@@ -1,0 +1,50 @@
+    @font-face {
+    font-family: lato;
+    src: url(../media/lato.ttf);
+   }
+    body {
+        max-width: 1600px;
+        min-width: 320px;
+        margin: 0 auto;
+        padding: 0;
+        font-family: "Lato";
+     }
+    .header {
+       background: url(../media/2.jpg) no-repeat;
+       background-size: cover;
+       height: 570px;
+       padding:50px 0px;
+       background-size: 100% 100%;
+       
+    }
+    h1 {
+        margin-top: 0%;
+        margin-left: 0%;
+        margin-bottom: 0%;
+        margin-right: 20%;
+        padding-left: 0%;
+        float: right;
+        
+    }
+    .logo {
+        color: white;
+        font-size: 300%;
+        font-weight: 100;
+        text-decoration:none;
+       
+    }
+    .container2 {
+        background-color: black;
+        width: 300px;
+        height: 450px;
+        margin-top: 0%;
+        opacity: 0.6;
+        
+    }
+    
+a:hover{
+	color: #FFF8AF;
+}
+#button {
+  max-width: 1600px;
+}

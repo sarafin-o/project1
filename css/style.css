@@ -45,3 +45,6 @@
 a:hover{
 	color: #FFF8AF;
 }
+#button {
+  max-width: 1600px;
+}

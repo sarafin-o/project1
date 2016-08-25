@@ -1,9 +1,12 @@
+
 h2 {
   font-size:40px;
   font-weight:300;
   color:#191919;
   margin-left: 50%;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: inherit;
+  display: inline;
 }
 .message {
   background:#fff;
@@ -47,6 +50,7 @@ h2 {
   font-size:12px;
   text-align:center;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: inherit;
   cursor: pointer;
   margin:0px 50px;
   transition:all 500ms ease;
