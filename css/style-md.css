@@ -3,14 +3,13 @@
     src: url(../media/lato.ttf);
    }
     body {
-        max-width: 1600px;
-        min-width: 320px;
+       
         margin: 0 auto;
         padding: 0;
         font-family: "Lato";
      }
     .header {
-       background: url(../media/2.jpg) no-repeat;
+       background: url(../media/11.jpg) no-repeat;
        background-size: cover;
        height: 570px;
        padding:50px 0px;
